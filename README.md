@@ -90,10 +90,6 @@ Si deseas contribuir o mejorar este proyecto:
    ```
 5. Envía tus cambios a tu repositorio fork y abre un Pull Request.
 
-## Licencia
-
-Este proyecto está licenciado bajo la [MIT License](LICENSE).
-
 ---
 
 ¡Gracias por usar Task-CLI! Si tienes preguntas o sugerencias, no dudes en abrir un issue.
