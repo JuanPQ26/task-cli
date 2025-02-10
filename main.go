@@ -39,7 +39,7 @@ func main() {
 		}
 
 		for _, task := range tasksList {
-			fmt.Printf("%d - %s \n", task.Id, task.Name)
+			fmt.Printf("%d - %s - %s \n", task.Id, task.Name, task.Status)
 		}
 
 		return
